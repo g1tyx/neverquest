@@ -1051,7 +1051,7 @@ var cnItems = {
     "health is restored.": "健康恢复了。",
     "heavy armor classes.": "重甲职业。",
     "Inherited relics": "继承了遗产",
-    "light, 10% for": "清淡，10%",
+    "light, 10% for": "光，10%",
     "Mercenary.": "雇佣兵。",
     "None.": "一个也没有。",
     "Nudist": "裸体",
